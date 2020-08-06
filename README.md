@@ -1,5 +1,12 @@
 # Smart Vehicle Tracking System
 
+### How to use?
+There are two folders in this repository:
+1. **Live Tracking** - Convert your phone into a CCTV Camera and the vehicles will be recognised by our algorithm and added to the database.
+2. **Vehicle Recognition and Blacklisting** - Recognize vehicles found in an Image or a Video file and blacklist them.
+
+### Description
+
 Prototype: http://veresys.000webhostapp.com
 
 With the advent of digital monitoring technology, it has become easier to track and gather details of scenes and culprits of any potential crimes. CCTV cameras have been widely and effectively used to gather evidence for these crimes. However, there still lacks an effective system to track down vehicles that commit any of these crimes which can thus automate the process of tracking down suspected vehicles and reduce police labour.
