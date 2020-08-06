@@ -6,7 +6,7 @@ For tracking cars live, you will need to install [this app](https://play.google.
 **Steps:**
 1. Open the app.
 2. Connect your phone to the same Wi-Fi as your Desktop/Laptop on which you will be running this code.
-3. Open the link that is displayed on the app in your browser. Eg: http://192.168.1.103:8080/ . Your phone's screen should be visible.
+3. Start the live sharing and open the link that is displayed on the app in your browser. Eg: http://192.168.1.103:8080/ . Your phone's screen should be visible.
 4. Right click on the live screen in your browser and select 'Open image in new tab'.
 5. Copy the link of this new tab (Eg: http://192.168.1.103:8080/stream.mjpeg) and paste it in the call_live.py file at line 73 in place of a similar link to that of yours. The line of code is:
 ```
